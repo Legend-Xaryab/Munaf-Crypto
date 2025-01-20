@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trading Pictures</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Trading Pictures</h1>
+        <div class="gallery">
+            <img src="trading-image1.jpg" alt="Trading Image 1">
+            <img src="trading-image2.jpg" alt="Trading Image 2">
+            <img src="trading-image3.jpg" alt="Trading Image 3">
+        </div>
+
+        <div class="owner-info">
+            <h2>Owner: John Doe</h2>
+            <p>John Doe is a passionate trader with over 10 years of experience in the financial markets. He shares insights and strategies to help others succeed in trading.</p>
+        </div>
+
+        <div class="social-media">
+            <h3>Connect with me:</h3>
+            <a href="https://www.facebook.com/yourprofile" target="_blank">
+                <img src="facebook-icon.png" alt="Facebook" class="social-icon">
+            </a>
+            <a href="https://wa.me/yourwhatsappnumber" target="_blank">
+                <img src="whatsapp-icon.png" alt="WhatsApp" class="social-icon">
+            </a>
+            <a href="https://www.instagram.com/yourprofile" target="_blank">
+                <img src="instagram-icon.png" alt="Instagram" class="social-icon">
+            </a>
+            <a href="https://www.tiktok.com/@yourprofile" target="_blank">
+                <img src="tiktok-icon.png" alt="TikTok" class="social-icon">
+            </a>
+        </div>
+    </div>
+</body>
+</html>
